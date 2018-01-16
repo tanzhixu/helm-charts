@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  nginx:
+  - apiVersion: v1
+    created: 2018-01-16T00:54:46.814331003-05:00
+    description: A Helm chart for Kubernetes
+    digest: 3313a2f25e037f20b4826423d601d7a715599bdea0313c1e660feae730389d70
+    name: nginx
+    urls:
+    - https://tanzhixu.github.io/helm-charts/nginx-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-01-16T00:54:46.813682619-05:00
